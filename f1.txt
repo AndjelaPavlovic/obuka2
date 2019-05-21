@@ -1,1 +1,2 @@
 test fajl
+Novi red dodat na gitu
